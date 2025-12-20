@@ -33,6 +33,16 @@
 
 ---
 
+## 🎨 Interests & Hobbies
+Beyond code, I enjoy activities that sharpen creativity and perspective:
+
+- 📚 **Book Reading** — fiction, philosophy, and tech-related reads that expand thinking  
+- 📸 **Photography** — capturing moments, light, and mood through a creative lens  
+- 🎬 **Watching Movies** — appreciating storytelling, cinematography, and sound design  
+
+> *Creativity outside code often inspires clarity within it.*
+
+---
 ## 📊 GitHub Snapshot
 ![Usairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&layout=compact&theme=tokyonight)
