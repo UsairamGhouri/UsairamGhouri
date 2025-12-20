@@ -28,7 +28,7 @@
 **Programming & Web:** `Python` `C++` `HTML` `CSS`  
 **Game Development:** `Scratch 3`  
 **Databases:** `MySQL` `Microsoft SQL Server`  
-**AI / ML:** `OpenAI (GPT)` `DeepSeek` `Gemini` `Claude` ` Perplexity` 
+**AI / ML:** `OpenAI (GPT)` `DeepSeek` `Gemini` `Claude` ` Perplexity`
 **Concepts:** `Socket Programming` `Database Design` `Basic System Architecture`
 
 ---
