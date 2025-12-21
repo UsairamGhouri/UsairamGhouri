@@ -62,11 +62,10 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UsairamGhouri&theme=monokai-metallian)
 
 ### 🏆 Profile Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&show_icons=true&theme=monokai&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=8)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&show_icons=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=9CA2B8&border_color=FFFFFF&border_radius=8&ring_color=FC9867)
 
 ### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&layout=compact&bg_color=1F222E&title_color=F85D7F&text_color=9CA2B8&border_color=FFFFFF&hide_border=false)
 
 
 ## 🌐 Let's Connect
