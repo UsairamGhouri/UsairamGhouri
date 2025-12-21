@@ -44,11 +44,8 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 
 *Creativity outside code often inspires clarity within it.*
 
-</div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 ### 📈 Activity & Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UsairamGhouri&theme=monokai-metallian)
