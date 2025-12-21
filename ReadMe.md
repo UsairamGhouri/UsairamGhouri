@@ -64,7 +64,7 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 ## 🌐 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/usairam-ghouri/)  
-🌄 [Instagram](https://www.instagram.com/usairam-ghouri/)  
+🌄 [Instagram](https://www.instagram.com/usairam_ghouri/)  
 ✉️ [Gmail](mr.knight4837@gmail.com)  
 🐈‍⬛ [GitHub](https://github.com/UsairamGhouri)
 
