@@ -65,7 +65,8 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&show_icons=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=9CA2B8&border_color=FFFFFF&border_radius=8&ring_color=FC9867)
 
 ### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&layout=compact&bg_color=1F222E&title_color=F85D7F&text_color=9CA2B8&border_color=FFFFFF&hide_border=false)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&layout=donut&bg_color=1F222E&title_color=F85D7F&text_color=9CA2B8&border_color=FFFFFF&hide_border=false&langs_color=FC9867&random=123)](https://github.com/UsairamGhouri/github-readme-stats)
+
 
 
 ## 🌐 Let's Connect
