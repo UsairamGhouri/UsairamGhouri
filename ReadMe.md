@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Usairam;AI+%2F+ML+Enthusiast;C%2B%2B+Problem+Solver;Python+Developer;AI+Integration+Explorer;Crafting+Scalable+Solutions" alt="Typing SVG" /></a>
 
 <br>
+
 🧠 Curious developer with a growing interest in Artificial Intelligence, Machine Learning, and software development
 
 🔧 Hands-on experience across web, game logic, databases, and system-level programming
@@ -16,23 +17,33 @@
 
 ## 🧩 Projects I’ve Built
 
- **TravelSphere** – Entry-level HTML & CSS travel web app focused on structure and UI fundamentals  
- **Monster Dash** – Scratch 3 platformer inspired by Geometry Dash, emphasizing game flow and timing  
- **Online Voting System** – C++ + MySQL project simulating a real-world voting system with secure data handling  
- **E-Commerce Management System** – SQL Server–based system for inventory management and seller–buyer interaction  
- **ZenChat** – Python socket-based chat application supporting text, audio, and video communication  
+**🔴 TravelSphere** – *Entry-level HTML & CSS travel web app focused on structure and UI fundamentals*
 
-*Each project reflects a step forward in problem-solving and system thinking.*
+**🔵 Monster Dash** – *Scratch 3 platformer inspired by Geometry Dash, emphasizing game flow and timing*
 
+**🟢 Online Voting System** – *C++ + MySQL project simulating a real-world voting system with secure data handling*
+
+**🟠 E-Commerce Management System** – *SQL Server–based system for inventory management and seller–buyer interaction*
+
+**🟣 ZenChat** – *Python socket-based chat application supporting text, audio, and video communication*
 
 ## 🛠️ Tech Stack
 
- **Programming & Web:** Python | C++ | HTML | CSS  
- **Game Development:** Scratch 3  
- **Databases:** MySQL | Microsoft SQL Server  
- **AI / ML:** OpenAI (GPT) | DeepSeek | Gemini | Claude | Perplexity  
- **Concepts:** Socket Programming | Database Design | Basic System Architecture
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-003778?style=for-the-badge&logo=&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF7B3D?style=for-the-badge&logo=&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=&logoColor=white) 
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-FF69B4?style=for-the-badge&logo=&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-32CD32?style=for-the-badge&logo=&logoColor=white)
+![System Architecture](https://img.shields.io/badge/System_Architecture-FFD700?style=for-the-badge&logo=&logoColor=black)
 
 ## 🎨 Interests & Hobbies
 
