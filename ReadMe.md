@@ -6,7 +6,7 @@
 
 <br>
 
-🧠 Curious developer with a growing interest in Artificial Intelligence, Machine Learning, and software development
+🧠 Curious developer with a growing interest in Artificial Intelligence, Machine Learning, and Software Development
 
 🔧 Hands-on experience across web, game logic, databases, and system-level programming
 
