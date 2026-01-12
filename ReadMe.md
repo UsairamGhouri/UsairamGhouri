@@ -17,15 +17,17 @@
 
 ## 🧩 Projects I’ve Built
 
-**🔴 TravelSphere** – *Entry-level HTML & CSS travel web app focused on structure and UI fundamentals*
+**🌍 TravelSphere** – *Entry-level HTML & CSS travel web app focused on structure and UI fundamentals*
 
-**🔵 Monster Dash** – *Scratch 3 platformer inspired by Geometry Dash, emphasizing game flow and timing*
+**👹 Monster Dash** – *Scratch 3 platformer inspired by Geometry Dash, emphasizing game flow and timing*
 
-**🟢 Online Voting System** – *C++ + MySQL project simulating a real-world voting system with secure data handling*
+**📥 Online Voting System** – *C++ + MySQL project simulating a real-world voting system with secure data handling*
 
-**🟠 E-Commerce Management System** – *SQL Server–based system for inventory management and seller–buyer interaction*
+**💹 E-Commerce Management System** – *SQL Server–based system for inventory management and seller–buyer interaction*
 
-**🟣 ZenChat** – *Python socket-based chat application supporting text, audio, and video communication*
+**💬 ZenChat** – *Python socket-based chat application supporting text, audio, and video communication*
+
+**🩺 PIMS** – *Type script-based role-based inventory and sales management platform*
 
 ## 🛠️ Tech Stack
 
