@@ -65,6 +65,7 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+  <img src="https://raw.githubusercontent.com/UsairamGhouri/UsairamGhouri/output/snake.svg" alt="Snake animation" />
 ## 🌐 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/usairam-ghouri/)  
