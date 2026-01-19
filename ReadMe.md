@@ -61,7 +61,7 @@ Beyond code, I enjoy activities that sharpen creativity and perspective:
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=UsairamGhouri&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=UsairamGhouri&theme=dark&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsairamGhouri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
