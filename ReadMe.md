@@ -31,21 +31,22 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2764e3?style=for-the-badge&logo=css&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-EBAC2F?style=for-the-badge&logo=Scratch&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=buffer&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-003778?style=for-the-badge&logo=&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF7B3D?style=for-the-badge&logo=&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=&logoColor=white) 
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-FF69B4?style=for-the-badge&logo=&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-32CD32?style=for-the-badge&logo=&logoColor=white)
-![System Architecture](https://img.shields.io/badge/System_Architecture-FFD700?style=for-the-badge&logo=&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-1da486?style=for-the-badge&logo=openaigym&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white) 
+![DeepSeek](https://img.shields.io/badge/DeepSeek-003778?style=for-the-badge&logo=apachehbase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF7B3D?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Socket_Programming-FF69B4?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-32CD32?style=for-the-badge&logo=maas&logoColor=white)
+![System Architecture](https://img.shields.io/badge/System_Architecture-5DACDF?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ## 🎨 Interests & Hobbies
 
