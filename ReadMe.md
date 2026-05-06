@@ -29,6 +29,8 @@
 
 **🩺 PIMS** – *Type script-based role-based inventory and sales management platform*
 
+**🎧 Audio Engine** – *HTML based audio visualizer*
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
