@@ -66,7 +66,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0b57ba?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
-<br>
 **AI & LLM Integrations:**
 <br>
 
