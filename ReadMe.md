@@ -92,7 +92,7 @@
   <a href="https://www.linkedin.com/in/usairam-ghouri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.chess.com/member/usairam_ghouri"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
   <a href="https://www.instagram.com/usairam_ghouri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://usairamghouri.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FAA918?style=for-the-badge&logo=nicehash&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://usairamghouri.com"><img src="https://img.shields.io/badge/Portfolio-FAA918?style=for-the-badge&logo=nicehash&logoColor=white" alt="Chess.com" /></a>
 
   <br><br>
   
