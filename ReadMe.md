@@ -81,7 +81,6 @@
 
 ### <sub><img src="https://img.icons8.com/fluency/48/combo-chart.png" height="28" /></sub> GitHub Telemetry
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsairamGhouri&theme=tokyonight&hide_border=true" height="192px" alt="GitHub Streak" /><br>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=UsairamGhouri&layout=compact&theme=tokyonight&hide_border=true" height="200px" alt="Top Languages" />
 </div>
 <div align="center">
