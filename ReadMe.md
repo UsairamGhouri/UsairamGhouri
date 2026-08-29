@@ -12,7 +12,7 @@
 
 ### <sub><img src="https://img.icons8.com/fluency/48/user-male-circle.png" height="28" /></sub> About Me
 
-- **Current Focus:** Deep-diving into applied cryptography, intelligent AI integrations, and secure software patterns.
+- **Current Focus:** Deep-diving into cyber security, intelligent AI integrations, and secure software patterns.
 - **Experience:** Hands-on experience building diverse, practical solutions—ranging from C++ logistics engines and Python socket networks to procedural visualizers and secure web interfaces.
 - **Collaboration:** Open to long-term collaborations with startups, engineering teams, and learning-driven communities to build robust, resilient systems.
 
