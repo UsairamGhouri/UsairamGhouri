@@ -25,6 +25,7 @@
 | **Secure Node** | Python Flask-based cybersecurity platform integrating AES encryption, 3-tier RBAC, and live 2FA verification. |
 | **ZenChat** | Python socket-programming ecosystem engineered for real-time, low-latency communication across synchronized text, audio, and video streams. |
 | **FastGo** | C++ logistics simulation and management platform utilizing a custom graph engine (Dijkstra's), SQLite, and RBAC to optimize package delivery routing. |
+| **Visual Design** | Interactive visual portfolio engine built with Vanilla JS, Three.js, GSAP, and Matter.js physics, featuring real-time 3D hero reticles, interactive particle ASCII portrait mechanics, and an integrated arcade game. |
 | **Audio Engine** | Real-time procedural rendering engine utilizing the Web Audio API and HTML5 Canvas for dynamic frequency analysis and atmospheric visual effects. |
 | **Online Voting System** | C++ and MySQL simulation of a secure electoral platform, implementing robust database management and data integrity controls. |
 | **E-Commerce System** | SQL Server-backed logistical platform engineered to streamline inventory tracking and facilitate relational vendor-client transactions. |
@@ -91,7 +92,7 @@
   <a href="https://www.linkedin.com/in/usairam-ghouri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.chess.com/member/usairam_ghouri"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
   <a href="https://www.instagram.com/usairam_ghouri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://usairamghouri.com"><img src="https://img.shields.io/badge/Portfolio-FAA918?style=for-the-badge&logo=nicehash&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://usairamghouri.com"><img src="https://img.shields.io/badge/Portfolio-FAA918?style=for-the-badge&logo=nicehash&logoColor=white" alt="Portfolio" /></a>
 
   <br><br>
   
