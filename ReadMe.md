@@ -49,6 +49,7 @@ Python Flask-based cybersecurity platform engineered with multi-layer access con
 - Integrated live Two-Factor Authentication (2FA) verification mechanism
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -81,6 +82,7 @@ Python socket-programming ecosystem engineered for real-time, low-latency multi-
 - Optimized low-latency packet transmission across synchronized text streams
 - Integrated audio and video media stream transmission handlers
 
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
