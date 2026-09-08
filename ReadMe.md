@@ -21,8 +21,8 @@
 ### <sub><img src="https://img.icons8.com/fluency/48/source-code.png" height="28" /></sub> Projects & Architectures
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 1. Maester Of The Citadel 🏰
 100% local, offline RAG AI course assistant acting as a secure, private study companion.
@@ -39,8 +39,7 @@
 <img src="https://img.shields.io/badge/ChromaDB-FC6A03?style=flat-square&logo=databricks&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 2. Secure Node
 Python Flask-based cybersecurity platform engineered with multi-layer access controls and cryptographic protection.
@@ -55,9 +54,9 @@ Python Flask-based cybersecurity platform engineered with multi-layer access con
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 3. WordFall
 Arcade-style browser game combining Tetris block mechanics with crossword anagram solving in a retro cyberpunk interface.
@@ -73,8 +72,7 @@ Arcade-style browser game combining Tetris block mechanics with crossword anagra
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 4. ZenChat
 Python socket-programming ecosystem engineered for real-time, low-latency multi-stream communication.
@@ -89,9 +87,9 @@ Python socket-programming ecosystem engineered for real-time, low-latency multi-
 <img src="https://img.shields.io/badge/Sockets-FF69B4?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 5. FastGo
 C++ logistics simulation and package routing platform utilizing graph theory and relational persistence.
@@ -106,8 +104,7 @@ C++ logistics simulation and package routing platform utilizing graph theory and
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 6. Visual Design
 Interactive visual portfolio engine built with Vanilla JS, Three.js, GSAP, and Matter.js physics.
@@ -123,9 +120,9 @@ Interactive visual portfolio engine built with Vanilla JS, Three.js, GSAP, and M
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 7. Audio Engine
 Real-time procedural rendering engine utilizing Web Audio API and HTML5 Canvas for dynamic visual synthesis.
@@ -140,8 +137,7 @@ Real-time procedural rendering engine utilizing Web Audio API and HTML5 Canvas f
 <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 8. Online Voting System
 Simulation of a secure electoral platform developed with C++ and MySQL for relational data integrity.
@@ -156,9 +152,9 @@ Simulation of a secure electoral platform developed with C++ and MySQL for relat
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 9. PIMS
 TypeScript-driven sales and inventory management dashboard with comprehensive access control.
@@ -172,8 +168,7 @@ TypeScript-driven sales and inventory management dashboard with comprehensive ac
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 10. E-Commerce System
 Relational database platform backed by Microsoft SQL Server to streamline inventory and vendor transactions.
@@ -188,9 +183,9 @@ Relational database platform backed by Microsoft SQL Server to streamline invent
 <img src="https://img.shields.io/badge/Database_Design-85cf17?style=flat-square&logo=maas&logoColor=white"/>
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 11. TravelSphere
 Front-end travel web application built with HTML5 & CSS3 emphasizing responsive layout architecture.
@@ -205,8 +200,7 @@ Front-end travel web application built with HTML5 & CSS3 emphasizing responsive 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
 
 </td>
-
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 12. Monster Dash
 Logic-driven platformer developed in Scratch 3, focusing on collision physics and timing mechanics.
@@ -220,7 +214,7 @@ Logic-driven platformer developed in Scratch 3, focusing on collision physics an
 <img src="https://img.shields.io/badge/Scratch-FF6F00?style=flat-square&logo=scratch&logoColor=white"/>
 
 </td>
-  </tr>
+</tr>
 </table>
 
 <br>
