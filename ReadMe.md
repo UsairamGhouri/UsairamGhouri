@@ -147,6 +147,7 @@ Simulation of a secure electoral platform developed with C++ and MySQL for relat
 - Enforced strict input validation and admin privilege controls
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
