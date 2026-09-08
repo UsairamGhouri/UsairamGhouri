@@ -210,6 +210,20 @@ Logic-driven platformer developed in Scratch 3, focusing on collision physics an
 
 <td width="50%" valign="top">
 
+### 12. Maester Of The Citadel 🏰
+100% local, offline RAG AI course assistant acting as a secure, private study companion.
+
+- Engineered an Advanced RAG Pipeline with Reciprocal Rank Fusion (RRF) combining BM25 and vector search
+- Enforced strict context adherence using a Cross-Encoder reranker to eliminate LLM hallucinations
+- Designed a stunning glassmorphism UI with procedural CSS-generated scroll textures and Markdown export
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-FC6A03?style=flat-square&logo=databricks&logoColor=white"/>
+
 </td>
 </tr>
 </table>
@@ -242,6 +256,7 @@ Logic-driven platformer developed in Scratch 3, focusing on collision physics an
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Socket_Programming-FF69B4?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database_Design-85cf17?style=for-the-badge&logo=maas&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FC6A03?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 **Network & Security:**
@@ -260,6 +275,8 @@ Logic-driven platformer developed in Scratch 3, focusing on collision physics an
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-003778?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF7B3D?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br>
 
