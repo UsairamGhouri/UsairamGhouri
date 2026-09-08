@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 1. Maester Of The Citadel 🏰
+### 1. Maester Of The Citadel
 100% local, offline RAG AI course assistant acting as a secure, private study companion.
 
 - Engineered an Advanced RAG Pipeline with Reciprocal Rank Fusion (RRF) combining BM25 and vector search
